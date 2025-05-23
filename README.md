@@ -28,5 +28,5 @@ Here are the key projects included in my portfolio:
 
 ## Links
 
--**GitHub Repository**:[  ]( )
+-**GitHub Repository**:[https://github.com/EvelynSanchezL/final-project-portfolio  ](https://github.com/EvelynSanchezL/final-project-portfolio )
 -**Live Site**: [ ]( )
